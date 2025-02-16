@@ -1,0 +1,4 @@
+distance = int(input('Введите расстояние, которое преодолела героиня игры:'))
+miles = 1000
+full_miles = distance / miles
+print('Количество полных миль:', int(full_miles))
